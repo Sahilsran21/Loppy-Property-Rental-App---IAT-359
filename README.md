@@ -4,7 +4,5 @@ This repo is a continuation of a group project from IAT 359 - Mobile Computing. 
 Commit of Dec 18, 2022 contains the final project file where each team member roughly contributed as follows:
 
 Sahil Sran - Mobile UI layout and interaction buttons
-
 Joey Liu - Database connectivity via Google Firebase
-
 Chongyuan Bian - Map screen functionality and zoom button
