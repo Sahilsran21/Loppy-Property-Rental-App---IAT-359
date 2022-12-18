@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "478446483698",
+    "project_id": "iat359firebasetest",
+    "storage_bucket": "iat359firebasetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478446483698:android:9413d234178db30196786b",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478446483698-s498tqrmhnl163ho35mi83sedq5lfvdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKLdBk-e-Kv8HEiJAKKYP1WDMug8TFDYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478446483698-s498tqrmhnl163ho35mi83sedq5lfvdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478446483698:android:2d6d0d967772f59a96786b",
+        "android_client_info": {
+          "package_name": "com.example.loppy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478446483698-s498tqrmhnl163ho35mi83sedq5lfvdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKLdBk-e-Kv8HEiJAKKYP1WDMug8TFDYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478446483698-s498tqrmhnl163ho35mi83sedq5lfvdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
